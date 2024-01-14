@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-Womens-E-Commence
+# Sentiment-Analysis-of-Womens-E-commerce Product Reviews
 * Analyzed and processed textual data using NLTK's stop words, Counter Vectorizers, and feature extraction methods to transform reviews into numeric representations.
 * Developed sentiment classification based on rating values, achieving high accuracy (Bernoulli NB: 85%, Logistic Regression: 95%, SVM: 93%).
 * Conducted extensive EDA, uncovering distribution patterns among age groups, sentiment biases, and department-wise sentiment distributions.
